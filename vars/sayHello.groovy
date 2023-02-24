@@ -2,6 +2,6 @@
 
 def call(name) {
 
-  echo "Hello"
+  echo "Hello $(name)"
 
 }
