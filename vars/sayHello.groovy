@@ -1,7 +1,7 @@
 #!/usr/bin/env groovy​
 
-def call() {​
+def call(name) {​
 
-  echo "Hello it works"​
+  echo "Hello it works ${name}"​
 
 }
